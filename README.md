@@ -79,4 +79,4 @@ This dashboard project was created to practice data visualization and dashboard 
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
