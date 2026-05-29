@@ -76,3 +76,7 @@ https://public.tableau.com/
 Conclusion
 
 This dashboard project was created to practice data visualization and dashboard development using Tableau Public. It demonstrates the ability to create interactive dashboards and generate insights from raw data.
+
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
